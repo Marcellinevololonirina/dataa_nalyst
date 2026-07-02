@@ -3,6 +3,8 @@
 A simple Python web scraper that collects job listings from the [Fake Python Jobs](https://realpython.github.io/fake-jobs/) website.
 
 ## Project Page
+https://roadmap.sh/projects/job-listings-scraper
+##Project github link
 https://github.com/Marcellinevololonirina/dataa_nalyst
 
 ## Features
