@@ -3,11 +3,11 @@
 A simple Python web scraper that collects job listings from the [Fake Python Jobs](https://realpython.github.io/fake-jobs/) website.
 
 ## Features
-- Scrapes job title, company, location, and detail page URL
-- Saves results to `fake_jobs.csv`
-- Clean, well-commented code using `requests` and `BeautifulSoup`
+- Scrapes **Job Title**, **Company**, **Location**, and **Job URL**
+- Saves results into `fake_jobs.csv`
+- Clean and readable code using `requests` + `BeautifulSoup`
 
-## Technologies Used
+## Technologies
 - Python
 - Requests
 - Beautiful Soup 4
@@ -15,7 +15,7 @@ A simple Python web scraper that collects job listings from the [Fake Python Job
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/fake-jobs-scraper.git
-   cd fake-jobs-scraper
+   git clone https://github.com/Marcellinevololonirina/dataa_nalyst.git
+   cd dataa_nalyst
